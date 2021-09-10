@@ -1,5 +1,5 @@
 # program flowchart untuk menghitung konversi suhu dari fahrenheit ke celcius dan reamur dengan nilai fahrenheit diinput
-```
+```C
 #include <iostream>
 using namespace std;
 
