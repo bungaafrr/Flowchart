@@ -2,7 +2,7 @@
 ```
 #include <iostream>
 using namespace std;
-// mengonversikan dari Fahrenheit ke Celcius dan Reamur
+
 int main() 
 {
 	float F, C, R;
