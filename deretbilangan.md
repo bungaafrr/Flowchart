@@ -20,7 +20,6 @@ int main()
 		b = a;
 		cout << a << " ";
 	}
-	
 	return 0;
 }
 ```
