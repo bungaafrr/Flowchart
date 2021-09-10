@@ -13,7 +13,6 @@ int main()
 	R = C*0.8;
 	cout << "Reamur : " << R;
 	
-	
 	return 0;
 }
 ```
